@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D1044E74-3DEF-4DDC-9C07-CCF62E7B8B12}|Default">
+  <MonoDevelop.Ide.ItemProperties.MeetingTask FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MeetingTask/Program.cs">
+    <Files>
+      <File FileName="MeetingTask/Program.cs" Line="26" Column="41" />
+      <File FileName="Models/Meeting.cs" Line="8" Column="41" />
+      <File FileName="Models/MeetingSchedule.cs" Line="8" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MeetingTask" expanded="True">
+            <Node name="MeetingTask" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Models" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Models FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
